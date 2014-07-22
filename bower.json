@@ -13,5 +13,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "x-tag-datepicker": "x-tag/datepicker#master"
+  }
 }
