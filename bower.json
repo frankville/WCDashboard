@@ -1,0 +1,17 @@
+{
+  "name": "WCDashboard",
+  "version": "0.0.0",
+  "homepage": "https://github.com/frankville/WCDashboard",
+  "authors": [
+    "Villasanti Francisco <villasanti.francisco@gmail.com>"
+  ],
+  "description": "dashboard created with polymer",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
